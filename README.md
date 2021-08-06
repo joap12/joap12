@@ -9,9 +9,9 @@
 
 <a  href="https://github.com/joap12">
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=joap12&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=joap12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joap12&layout=compact&langs_count=7&theme=merko"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joap12&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
