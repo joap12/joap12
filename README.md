@@ -11,7 +11,7 @@
 
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=joap12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joap12&langs_count=8)](https://github.com/joap12/github-readme-stats"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joap12&langs_count=8&show_icons=true&theme=dracula)](https://github.com/joap12/github-readme-stats"/>
 
 </div>
 
