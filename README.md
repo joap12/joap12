@@ -1,7 +1,6 @@
 # Hey there ✌🏼 - I'm João Pedro
-#### Front-end Developer
+#### Web Developer
 #### I live in Sao Paulo
-#### 12 Years old
 
 
 
