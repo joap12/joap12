@@ -21,6 +21,4 @@
 
 ##
 
-<img  align="right"  height="150em"  alt="gif"  src="http://i.imgur.com/kvUU7.gif">
-
 </div>
