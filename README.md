@@ -3,7 +3,6 @@
 #### I live in Sao Paulo
 
 
-
 <div  style="display:flex">
 
 <a  href="https://github.com/joap12">
